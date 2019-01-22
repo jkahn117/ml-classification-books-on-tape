@@ -12,10 +12,10 @@ Transcribed data will be stored as a labelled book. Modeling will be performed a
 
 Will begin by leveraging BlazingText to examine the following differentiate between authors:
 
-    * Richness of vocabulary
-    * Word length
-    * Sentence length
-    * Use of function words
+* Richness of vocabulary
+* Word length
+* Sentence length
+* Use of function words
 
 ## End Goal
 
